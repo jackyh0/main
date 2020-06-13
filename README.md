@@ -690,6 +690,8 @@ which you chose)
     > Privacy and Security, SOUPS.
     > [<span class="underline">https://www.usenix.org/system/files/conference/soups2014/soups14-paper-jaferian.pdf</span>](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-jaferian.pdf)
 
+    > Discussion Lead: Jacky Ho
+
 ### Assignments due
 
   - > Second discussion-lead for those who haven’t done two already  
