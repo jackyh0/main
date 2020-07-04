@@ -17,6 +17,8 @@
   - > Johnson, M. L., Bellovin, S. M., Reeder, R. W., & Schechter, S. E. (2009). Laissez-faire file sharing: Access control designed for individuals at the endpoints. *New Security Paradigms Workshop*, NSPW. [<span class="underline">https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download</span>](https://academiccommons.columbia.edu/doi/10.7916/D8D79J6W/download)
 
   - > Jaferian, P., Rashtian, H., & Beznosov, K. (2014). *To authorize or not authorize: Helping users review access policies in organizations.* Proceedings of the 10th Symposium on Usable Privacy and Security, SOUPS. [<span class="underline">https://www.usenix.org/system/files/conference/soups2014/soups14-paper-jaferian.pdf</span>](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-jaferian.pdf)
+  
+  Discussion Lead: Jacky Ho
 
 ### Assignments due
 
